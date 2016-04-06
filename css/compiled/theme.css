@@ -20,6 +20,10 @@ body {
 a:hover {
   text-decoration: none; }
 
+a:active {
+  outline: none;
+}
+
 input[type="text"],
 input[type="password"],
 input[type="submit"],
@@ -191,7 +195,7 @@ header {
         border: none;
         box-shadow: none;
         background-color: #000; }
-      #footer .contact input[type="text"]:moz-placeholder, #footer .contact textarea:moz-placeholder {
+      #footer .contact input[type="text"]::-moz-placeholder, #footer .contact textarea::-moz-placeholder {
         color: #868687; }
       #footer .contact input[type="text"]::-webkit-input-placeholder, #footer .contact textarea::-webkit-input-placeholder {
         color: #868687; }
@@ -258,12 +262,10 @@ header {
   padding: 0px 18px; }
 
 .social_icon {
-  background: url("../../img/social_icons.html") no-repeat;
   width: 110px;
   height: 18px; }
 
 .contact_social {
-  background: url("../../img/contact_social.html") no-repeat;
   width: 180px;
   height: 34px; }
 

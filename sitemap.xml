@@ -7,8 +7,39 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://poezdochka.by/</loc>
-  <lastmod>2014-11-07T19:40:05+00:00</lastmod>
+  <loc>http://prokatbus.by/</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
   <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://prokatbus.by/index.html</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://prokatbus.by/about-us.html</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://prokatbus.by/pricing.html</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://prokatbus.by/features.html</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://prokatbus.by/contact.html</loc>
+  <lastmod>2016-04-06T19:18:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 </urlset>

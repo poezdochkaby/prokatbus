@@ -271,3 +271,8 @@
         display: none; }
     #process .areas .last_circle {
       margin-top: 0; } }
+
+.intro li {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
